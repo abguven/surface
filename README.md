@@ -1,3 +1,3 @@
 # surface
-![GitHub all releases](https://img.shields.io/github/downloads/abguven/test/total?logo=Java)</br>
+![GitHub all releases](https://img.shields.io/github/downloads/abguven/surface/total?logo=Java)
 This is a submodule test project ...
